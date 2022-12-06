@@ -1,0 +1,54 @@
+{
+  "date":"2022-12-05",
+  "weight":85.4,
+  "weight_unit":"kg",
+  "workout":[
+    {
+      "name": "pull up",
+      "note": "slightly tired",
+      "details": 
+      [
+        {"weight": 0,"unit": "lb","reps": 8},
+        {"weight": 0,"unit": "lb","reps": 8},
+        {"weight": 0,"unit": "lb","reps": 5},
+        {"weight": 25,"unit": "lb","reps": 3},
+        {"weight": 25,"unit": "lb","reps": 3}
+      ]
+    },
+    {
+      "name": "barbell row",
+      "note": "getting started!",
+      "details": 
+      [
+        {"weight": 95,"unit": "lb","reps": 10},
+        {"weight": 95,"unit": "lb","reps": 10},
+        {"weight": 95,"unit": "lb","reps": 10},
+        {"weight": 95,"unit": "lb","reps": 8}
+      ]
+    },
+    {
+      "name": "dumbell row",
+      "note": "getting started!",
+      "details": 
+      [
+        {"weight": 45,"unit": "lb","reps": 10},
+        {"weight": 45,"unit": "lb","reps": 10},
+        {"weight": 45,"unit": "lb","reps": 10},
+        {"weight": 45,"unit": "lb","reps": 8
+        }
+      ]
+    },
+    {
+      "name": "dips",
+      "note": "dip targeting tricep",
+      "details": 
+      [
+        {"weight": 0,"unit": "lb","reps": 10},
+        {"weight": 0,"unit": "lb","reps": 10
+        }
+      ]
+    }
+  ]
+}
+
+    
