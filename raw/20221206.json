@@ -2,7 +2,30 @@
     "date":"2022-12-06",
     "weight":84.6,
     "weight_unit":"kg",
-    "workout": null
+    "workout": [
+        {
+          "name": "pull up",
+          "note": "exhausted from training and morning climbing",
+          "details": 
+          [
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 9},
+            {"weight": 0,"unit": "lb","reps": 5},
+            {"weight": 0,"unit": "lb","reps": 5}
+          ]
+        },
+        {
+          "name": "dips",
+          "note": "dip targeting tricep",
+          "details": 
+          [
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10}
+          ]
+        }
+      ]
 }
   
       

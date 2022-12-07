@@ -34,8 +34,7 @@
         {"weight": 45,"unit": "lb","reps": 10},
         {"weight": 45,"unit": "lb","reps": 10},
         {"weight": 45,"unit": "lb","reps": 10},
-        {"weight": 45,"unit": "lb","reps": 8
-        }
+        {"weight": 45,"unit": "lb","reps": 8}
       ]
     },
     {
@@ -44,8 +43,7 @@
       "details": 
       [
         {"weight": 0,"unit": "lb","reps": 10},
-        {"weight": 0,"unit": "lb","reps": 10
-        }
+        {"weight": 0,"unit": "lb","reps": 10}
       ]
     }
   ]
