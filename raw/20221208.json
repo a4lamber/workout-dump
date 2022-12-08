@@ -1,0 +1,46 @@
+{
+  "date":"2022-12-08",
+  "weight":null,
+  "weight_unit":"kg",
+  "workout":[
+    {
+      "name": "barbell bench press",
+      "note": "Didn't bench in a while but gain from other activities",
+      "details": 
+      [
+        {"weight": 175,"unit": "lb","reps": 5},
+        {"weight": 175,"unit": "lb","reps": 5},
+        {"weight": 175,"unit": "lb","reps": 5},
+        {"weight": 170,"unit": "lb","reps": 5},
+        {"weight": 165,"unit": "lb","reps": 5}
+      ]
+    }
+    ,
+    {
+      "name": "dips",
+      "note": "dip targeting tricep",
+      "details": 
+      [
+        {"weight": 0,"unit": "lb","reps": 10},
+        {"weight": 0,"unit": "lb","reps": 10},
+        {"weight": 0,"unit": "lb","reps": 10},
+        {"weight": 0,"unit": "lb","reps": 10},
+        {"weight": 0,"unit": "lb","reps": 10}
+      ]
+    },
+    {
+      "name": "dumbell row",
+      "note": "getting started!",
+      "details": 
+      [
+        {"weight": 45,"unit": "lb","reps": 12},
+        {"weight": 45,"unit": "lb","reps": 12},
+        {"weight": 45,"unit": "lb","reps": 12},
+        {"weight": 45,"unit": "lb","reps": 12},
+        {"weight": 45,"unit": "lb","reps": 12}
+      ]
+    }
+  ]
+}
+
+    
