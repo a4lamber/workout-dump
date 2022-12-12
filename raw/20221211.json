@@ -26,6 +26,40 @@
             {"weight": 0,"unit": "lb","reps": 15},
             {"weight": 0,"unit": "lb","reps": 15}
           ]
+        },
+        {
+          "name": "barbell bench press",
+          "note": "explosive push with pause",
+          "details": 
+          [
+            {"weight": 155,"unit": "lb","reps": 5},
+            {"weight": 155,"unit": "lb","reps": 5},
+            {"weight": 155,"unit": "lb","reps": 5},
+            {"weight": 155,"unit": "lb","reps": 5},
+            {"weight": 155,"unit": "lb","reps": 5}
+          ]
+        },
+        {
+          "name": "barbell row",
+          "note": "hard to feel squeezing the back",
+          "details": 
+          [
+            {"weight": 95,"unit": "lb","reps": 12},
+            {"weight": 95,"unit": "lb","reps": 12},
+            {"weight": 95,"unit": "lb","reps": 10},
+            {"weight": 95,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "dumbell row",
+          "note": "right back hard to squeeze",
+          "details": 
+          [
+            {"weight": 45,"unit": "lb","reps": 12},
+            {"weight": 45,"unit": "lb","reps": 12},
+            {"weight": 45,"unit": "lb","reps": 12},
+            {"weight": 45,"unit": "lb","reps": 12}
+          ]
         }
       ]
 }
