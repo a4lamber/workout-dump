@@ -1,0 +1,71 @@
+{
+    "date":"2023-01-12",
+    "weight":83.3,
+    "weight_unit":"kg",
+    "workout": [
+        {
+          "name": "Lu raise",
+          "note": "around the world version of the shoulder",
+          "details": 
+          [
+            {"weight": 10,"unit": "lb","reps": 12},
+            {"weight": 10,"unit": "lb","reps": 12},
+            {"weight": 10,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "scaption raise",
+          "note": "front raise till overhead",
+          "details": 
+          [
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "prone shoulder extension",
+          "note": "lay on bench, retract scapula, then shoulder extension",
+          "details": 
+          [
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "shoulder external rotation",
+          "note": "externally rotate your elbow while arm tucked",
+          "details": 
+          [
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "wrist flexion and extension",
+          "note": "slowly extend and rotate your wrist up and down",
+          "details": 
+          [
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+            "name": "elbow pronation",
+            "note": "put arm on bench or table, slowly pronate your elbow",
+            "details": 
+            [
+              {"weight": 5,"unit": "lb","reps": 12},
+              {"weight": 5,"unit": "lb","reps": 12},
+              {"weight": 5,"unit": "lb","reps": 12}
+            ]
+          }
+      ],
+      "climb": null,
+      "daily reflection":null
+}
+  
+      
