@@ -1,56 +1,46 @@
 # Workout organizer
----
-## Description
----
+
+For this project, it has been created with the intention of  
+- a data storage to hold my daily workout session, climbing session data in `.json` format
+- available for future analysis on the workout session to fine tuning
+  - tuning workout volume or intensity if plateau
+  - spot the weakness
+- visualization of the workout + climbing
+
+## Data Entry template
+
 Store the daily training log in `.json` format. The raw data in stored in the `./raw` named after the day of exerercise in `.json` format like `20220505.json`. An example schema looks like
 
 ```json
 {
-  "date":"2022-12-05",
-  "weight":85.4,
-  "weight_unit":"kg",
-  "workout":[
-    {
-      "exercise": "pull up",
-      "note": "slightly tired",
-      "details": [
-        {
-          "weight": 0,
-          "unit": "lb",
-          "reps": 8
-        },
-        {
-          "weight": 0,
-          "unit": "lb",
-          "reps": 8
-        }
-      ]
-    },
-    {
-      "exercise": "barbell row",
-      "note": "getting started!",
-      "details": [
-        {
-          "weight": 95,
-          "unit": "lb",
-          "reps": 10
-        },
-        {
-          "weight": 95,
-          "unit": "lb",
-          "reps": 10
-        }
-      ]
-    }
-  ]
-}
-
-    
+    "date":"1111-11-11",
+    "weight":85.4,
+    "weight_unit":"kg",
+    "workout":[
+      {
+        "name": "pull up",
+        "note": "slightly tired",
+        "details": 
+        [
+          {"weight": 0,"unit": "lb","reps": 8},
+          {"weight": 0,"unit": "lb","reps": 8},
+          {"weight": 0,"unit": "lb","reps": 5},
+          {"weight": 25,"unit": "lb","reps": 3},
+          {"weight": 25,"unit": "lb","reps": 3}
+        ]
+      }
+    ],
+      "climb": null,
+      "daily reflection":null
+  }    
 ```
 The structure of the data is mainly for tracking
-- the working set only
+- the working set
   - get total reps, total work volume
 - track body weight
+- track contribution
+
+[Click here for data entry template](./data_template.md)
 
 
 ## Roadmaps
