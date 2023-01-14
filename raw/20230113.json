@@ -1,0 +1,41 @@
+{
+    "date":"2023-01-13",
+    "weight":null,
+    "weight_unit":"kg",
+    "workout": [
+        {
+          "name": "Lu raise",
+          "note": "around the world version of the shoulder",
+          "details": 
+          [
+            {"weight": 10,"unit": "lb","reps": 12},
+            {"weight": 10,"unit": "lb","reps": 12},
+            {"weight": 10,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "prone shoulder extension",
+          "note": "lay on bench, retract scapula, then shoulder extension",
+          "details": 
+          [
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "shoulder external rotation",
+          "note": "tried with cable today, cable feels better with lateral force",
+          "details": 
+          [
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12},
+            {"weight": 5,"unit": "lb","reps": 12}
+          ]
+        }
+      ],
+      "climb": null,
+      "daily reflection": "feels good overall, let's see tmr's climb session"
+}
+  
+      
