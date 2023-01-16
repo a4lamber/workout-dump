@@ -1,0 +1,73 @@
+{
+    "date":"2023-01-16",
+    "weight":83.2,
+    "weight_unit":"kg",
+    "workout": [
+        {
+          "name": "Lu raise",
+          "note": "as warm-up, it feels good",
+          "details": 
+          [
+            {"weight": 10,"unit": "lb","reps": 12},
+            {"weight": 10,"unit": "lb","reps": 12},
+            {"weight": 10,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "pull up",
+          "note": "last two sets near failure, hard to put chin over bar;",
+          "details": 
+          [
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5}
+          ]
+        },
+        {
+          "name": "barbell bench press",
+          "note": "work on antagonist muscle",
+          "details": 
+          [
+            {"weight": 140,"unit": "lb","reps": 5},
+            {"weight": 140,"unit": "lb","reps": 5},
+            {"weight": 140,"unit": "lb","reps": 5},
+            {"weight": 140,"unit": "lb","reps": 5},
+            {"weight": 140,"unit": "lb","reps": 5}          ]
+        },
+        {
+          "name": "dips",
+          "note": "antagonist muscle, need more weight to avoid hypertrophy",
+          "details": 
+          [
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10}          ]
+        },
+        {
+            "name": "supinated body weight pull",
+            "note": "accessory for bicep and horizontal pull",
+            "details": 
+            [
+              {"weight": 0,"unit": "lb","reps": 12},
+              {"weight": 0,"unit": "lb","reps": 12},
+              {"weight": 0,"unit": "lb","reps": 12},
+              {"weight": 0,"unit": "lb","reps": 12}          ]
+        },
+        {
+            "name": "prone shoulder extension",
+            "note": "accessory for shoulder stabilizer, tried holding for 3 secs on top",
+            "details": 
+            [
+              {"weight": 5,"unit": "lb","reps": 10},
+              {"weight": 5,"unit": "lb","reps": 10},
+              {"weight": 5,"unit": "lb","reps": 10}         ]
+        }
+      ],
+      "climb": null,
+      "daily reflection": "exhausting workout, gotta stretch and ice for full recovery"
+}
+  
+      
