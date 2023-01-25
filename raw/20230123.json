@@ -1,0 +1,46 @@
+{
+    "date":"2023-01-23",
+    "weight":null,
+    "weight_unit":"kg",
+    "workout": [
+        {
+          "name": "Lu raise",
+          "note": "as warm-up, it feels good",
+          "details": 
+          [
+            {"weight": 10,"unit": "lb","reps": 12},
+            {"weight": 10,"unit": "lb","reps": 12}
+          ]
+        },
+        {
+          "name": "pull up",
+          "note": "last two sets near failure, hard to put chin over bar;",
+          "details": 
+          [
+            {"weight": 25,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 35,"unit": "lb","reps": 5},
+            {"weight": 0,"unit": "lb","reps": 10}
+          ]
+        },
+        {
+          "name": "dips",
+          "note": "antagonist muscle, need more weight to avoid hypertrophy",
+          "details": 
+          [
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10},
+            {"weight": 0,"unit": "lb","reps": 10}        
+          ]
+        }
+      ],
+      "climb": null,
+      "daily reflection": "first workout after COVID, feels bad man"
+}
+  
+      
